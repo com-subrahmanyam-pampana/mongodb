@@ -1,0 +1,1 @@
+In MongoDB, projection means selecting only the necessary data rather than selecting whole of the data of a document.
